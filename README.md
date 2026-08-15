@@ -67,7 +67,7 @@ Positive / Negative
 The project uses the IMDb Movie Reviews dataset, a widely used benchmark dataset for binary sentiment classification. The reviews are labelled as either positive or negative.
 
 🎯 Objective:
-The main objective is to demonstrate how NLP, Machine Learning, and Deep Learning can be combined to build a practical sentiment-analysis application capable of predicting the sentiment of movie reviews.
+The main objective is to demonstrate how NLP, Machine Learning, and Deep Learning can be combined to build a practical sentiment-analysis application capable of predicting the sentiment of movie reviews.The model achieved 96.73% accuracy on the held-out IMDb test dataset
 
 🌐 Deployment:
 The application can be deployed using Streamlit Community Cloud or another cloud platform that supports Python applications.

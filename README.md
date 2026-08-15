@@ -80,6 +80,7 @@ Support multiple languages
 Experiment with LSTM, Bi-LSTM and Transformer models
 Deploy the application publicly
 
-👨‍💻 Author
+👨‍💻 Author:
 Sounak Chatterjee
+
 GitHub: sounak-084

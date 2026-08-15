@@ -3,10 +3,10 @@
 🎬 IMDb Movie Review Sentiment Analysis
 An NLP-based Sentiment Analysis Web App that classifies IMDb movie reviews as Positive or Negative using Machine Learning and Deep Learning techniques.
 
-🚀 Project Overview
+🚀 Project Overview:
 This project uses the IMDb Movie Reviews dataset to train a sentiment classification model. The application processes a user's movie review, applies NLP preprocessing, and predicts its sentiment through an interactive Streamlit interface.
 
-✨ Features
+✨ Features:
 📝 Enter any movie review
 🧹 Text preprocessing and cleaning
 🔤 NLP-based text representation
@@ -15,7 +15,7 @@ This project uses the IMDb Movie Reviews dataset to train a sentiment classifica
 🌐 Interactive Streamlit web application
 ⚡ Real-time prediction
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 Python
 Natural Language Processing (NLP)
 Machine Learning
@@ -25,7 +25,7 @@ TensorFlow/Keras
 Pandas & NumPy
 Streamlit
 
-📂 Project Structure
+📂 Project Structure:
 imdb-sentiment-app/
 │
 ├── app.py
@@ -38,7 +38,7 @@ imdb-sentiment-app/
 └── notebooks/
     └── model_training.ipynb
 
-⚙️ How to Run
+⚙️ How to Run:
 1. Clone the repository
 git clone https://github.com/sounak-084/imdb-sentiment-app.git
 cd imdb-sentiment-app
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 streamlit run app.py
 The application will open in your browser.
 
-🧠 Workflow
+🧠 Workflow:
 IMDb Reviews
      ↓
 Text Cleaning
@@ -63,16 +63,16 @@ Streamlit Web App
      ↓
 Positive / Negative
 
-📊 Dataset
+📊 Dataset:
 The project uses the IMDb Movie Reviews dataset, a widely used benchmark dataset for binary sentiment classification. The reviews are labelled as either positive or negative.
 
-🎯 Objective
+🎯 Objective:
 The main objective is to demonstrate how NLP, Machine Learning, and Deep Learning can be combined to build a practical sentiment-analysis application capable of predicting the sentiment of movie reviews.
 
-🌐 Deployment
+🌐 Deployment:
 The application can be deployed using Streamlit Community Cloud or another cloud platform that supports Python applications.
 
-🔮 Future Improvements
+🔮 Future Improvements:
 Add sentiment confidence scores
 Improve model accuracy
 Add visualization dashboards
